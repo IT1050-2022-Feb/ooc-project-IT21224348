@@ -18,4 +18,3 @@ class AdevertisingPackage{
 	    void deletepackageDetail(SystemDeveloper *sys2);
 	    ~AdvertisingPackage();	
 };
-
